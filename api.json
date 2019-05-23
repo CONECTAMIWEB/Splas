@@ -1,46 +1,46 @@
 {
 	"Collections": [{
 			"name": "landscapes",
-			"url": "https://i.imgur.com/zNi1DzS.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/zNi1DzS.jpg"
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		},
 			
 		{
 			"name": "city",
-			"url": "https://i.imgur.com/zNi1DzS.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/zNi1DzS.jpg"
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		},
 		{
 			"name": "food",
-			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/zNi1DzS.jpg"
+			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		},
 		{
 			"name": "people",
-			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/zNi1DzS.jpg"
+			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		},
 		{
 			"name": "nature",
-			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/zNi1DzS.jpg"
+			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		}
 	],
 	"Wallpapers": [
 			{
 			"name": "Dog 1",
 			"author": "you",
-			"url": "https://i.imgur.com/zNi1DzS.jpg",
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"thumbnail": "",
 			"collections": "Dogs",
 			"downloadable": true
 		}, 
 {
-			"name": "",
-			"author": "",
-			"url": "",
+			"name": "Dog 2",
+			"author": "you",
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"thumbnail": "",
-			"collections": "",
+			"collections": "Dogs",
 			"downloadable": true
 		}
 ]
