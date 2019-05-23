@@ -1,7 +1,7 @@
 {
 	"Collections": [{
-			"name": "landscapes",
-			"url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg",
+			"name": "PERRO",
+			"url": "https://imgur.com/JMB0qjY",
 			"preview_thumbnail_url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg"
 		},
 			
@@ -28,9 +28,9 @@
 	],
 	"Wallpapers": [
 			{
-			"name": "",
-			"author": "",
-			"url": "",
+			"name": "prueba perro",
+			"author": "yo",
+			"url": "https://imgur.com/JMB0qjY",
 			"thumbnail": "",
 			"collections": "",
 			"downloadable": true
