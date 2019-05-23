@@ -1,13 +1,13 @@
 {
 	"Collections": [{
 			"name": "landscapes",
-			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		},
 			
 		{
 			"name": "city",
-			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
 		},
 		{
