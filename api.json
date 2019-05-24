@@ -1,46 +1,46 @@
 {
 	"Collections": [{
 			"name": "landscapes",
-			"url": "https://i.imgur.com/4Tlx0L2.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
+			"url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg",
+			"preview_thumbnail_url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg"
 		},
 			
 		{
 			"name": "city",
-			"url": "https://i.imgur.com/4Tlx0L2.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
+			"url": "http://wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_2560x1440.jpg",
+			"preview_thumbnail_url": "http://wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_2560x1440.jpg"
 		},
 		{
 			"name": "food",
-			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
+			"preview_url": "http://wallpaperscraft.com/image/seafood_shrimp_crabs_food_76709_2560x1440.jpg",
+			"preview_thumbnail_url": "http://wallpaperscraft.com/image/seafood_shrimp_crabs_food_76709_2560x1440.jpg"
 		},
 		{
 			"name": "people",
-			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
+			"preview_url": "http://wallpaperscraft.com/image/gas_mask_guy_inscription_118212_2560x1440.jpg",
+			"preview_thumbnail_url": "http://wallpaperscraft.com/image/gas_mask_guy_inscription_118212_2560x1440.jpg"
 		},
 		{
 			"name": "nature",
-			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/4Tlx0L2.jpg"
+			"preview_url": "http://wallpaperscraft.com/image/road_trees_top_view_119030_2560x1440.jpg",
+			"preview_thumbnail_url": "http://wallpaperscraft.com/image/road_trees_top_view_119030_2560x1440.jpg"
 		}
 	],
 	"Wallpapers": [
 			{
 			"name": "Dog 1",
 			"author": "you",
-			"url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"url": "https://i.imgur.com/zNi1DzS.jpg",
 			"thumbnail": "",
 			"collections": "Dogs",
 			"downloadable": true
 		}, 
 {
-			"name": "Gatos 2",
-			"author": "you",
-			"url": "https://i.imgur.com/JMB0qjY.jpg?1",
+			"name": "",
+			"author": "",
+			"url": "",
 			"thumbnail": "",
-			"collections": "Gatos",
+			"collections": "",
 			"downloadable": true
 		}
 ]
