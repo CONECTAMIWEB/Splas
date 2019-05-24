@@ -4,6 +4,7 @@
 			"name": "gato 1",
 			"author": "you",
 			"preview_url": "https://i.imgur.com/fDL1l29.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/fDL1l29.jpg",
 			"thumbnail": "",
 			"collections": "gato 1.1",
 			"downloadable": true
@@ -12,6 +13,7 @@
 			"name": "gato 2",
 			"author": "your2",
 			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
+			"preview_thumbnail_url": "https://i.imgur.com/fDL1l29.jpg",
 			"thumbnail": "",
 			"collections": "gato 2.2",
 			"downloadable": true
