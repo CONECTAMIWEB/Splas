@@ -3,7 +3,7 @@
 		{
 			"name": "gato 1",
 			"author": "you",
-			"url": "https://i.imgur.com/fDL1l29.jpg",
+			"preview_url": "https://i.imgur.com/fDL1l29.jpg",
 			"thumbnail": "",
 			"collections": "gato 1.1",
 			"downloadable": true
@@ -11,26 +11,19 @@
                 {      
 			"name": "gato 2",
 			"author": "your2",
-			"url": "https://i.imgur.com/oTylUKW.jpg",
+			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
 			"thumbnail": "",
 			"collections": "gato 2.2",
 			"downloadable": true
 		},
-		 {      
-			"name": "gato 3",
-			"author": "your3",
-			"url": "https://i.imgur.com/pWEdMdS.jpg",
-			"thumbnail": "",
-			"collections": "gato 3.3",
-			"downloadable": true
-		}
+		 
 	],
 	 
 	"Wallpapers": [
 			{
 			"name": "Dog",
 			"author": "you",
-			"url": "https://i.imgur.com/zNi1DzS.jpg",
+			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
 			"thumbnail": "",
 			"collections": "Dogs 1",
 			"downloadable": true
@@ -38,7 +31,7 @@
                 {      
 			"name": "Dog",
 			"author": "your2",
-			"url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"thumbnail": "",
 			"collections": "Dog 2",
 			"downloadable": true
@@ -46,7 +39,7 @@
 		 {      
 			"name": "Dog",
 			"author": "your3",
-			"url": "https://i.imgur.com/zNi1DzS.jpg",
+			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
 			"thumbnail": "",
 			"collections": "Dog 3",
 			"downloadable": true
@@ -54,7 +47,7 @@
 		{
 			"name": "gato 1",
 			"author": "you",
-			"url": "https://i.imgur.com/fDL1l29.jpg",
+			"preview_url": "https://i.imgur.com/fDL1l29.jpg",
 			"thumbnail": "",
 			"collections": "gato 1.1",
 			"downloadable": true
@@ -62,7 +55,7 @@
                 {      
 			"name": "gato 2",
 			"author": "your2",
-			"url": "https://i.imgur.com/oTylUKW.jpg",
+			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
 			"thumbnail": "",
 			"collections": "gato 2.2",
 			"downloadable": true
@@ -70,7 +63,7 @@
 		 {      
 			"name": "gato 3",
 			"author": "your3",
-			"url": "https://i.imgur.com/pWEdMdS.jpg",
+			"preview_url": "https://i.imgur.com/pWEdMdS.jpg",
 			"thumbnail": "",
 			"collections": "gato 3.3",
 			"downloadable": true
