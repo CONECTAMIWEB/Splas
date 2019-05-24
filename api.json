@@ -1,21 +1,28 @@
 {
 	"Collections": [
 		{
-			"name": "food",
-			"preview_url": "https://i.imgur.com/pWEdMdS.jpg",
+			"name": "gato 1",
+			"author": "you",
+			"url": "https://i.imgur.com/fDL1l29.jpg",
+			"thumbnail": "",
+			"collections": "gato 1.1",
+			"downloadable": true
+		}, 
+                {      
+			"name": "gato 2",
+			"author": "your2",
 			"url": "https://i.imgur.com/oTylUKW.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/pWEdMdS.jpg"
+			"thumbnail": "",
+			"collections": "gato 2.2",
+			"downloadable": true
 		},
-		{
-			"name": "people",
-			"url": "https://i.imgur.com/oTylUKW.jpg",
-			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/oTylUKW.jpg"
-		},
-		{
-			"name": "nature",
-			"preview_url": "https://i.imgur.com/fDL1l29.jpg",
-			"preview_thumbnail_url": "https://i.imgur.com/fDL1l29.jpg"
+		 {      
+			"name": "gato 3",
+			"author": "your3",
+			"url": "https://i.imgur.com/pWEdMdS.jpg",
+			"thumbnail": "",
+			"collections": "gato 3.3",
+			"downloadable": true
 		}
 	],
 	 
