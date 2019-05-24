@@ -35,12 +35,20 @@
 			"collections": "Dogs 1",
 			"downloadable": true
 		}, 
-{
+                {      
 			"name": "Dog",
 			"author": "your2",
 			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"thumbnail": "",
 			"collections": "Dog 2",
+			"downloadable": true
+		},
+		 {      
+			"name": "Dog",
+			"author": "your3",
+			"url": "https://i.imgur.com/zNi1DzS.jpg",
+			"thumbnail": "",
+			"collections": "Dog 3",
 			"downloadable": true
 		}
 ]
