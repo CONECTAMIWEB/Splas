@@ -1,15 +1,5 @@
 {
-	"Collections": [{
-			"name": "landscapes",
-			"url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg"
-		},
-			
-		{
-			"name": "city",
-			"url": "http://wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_2560x1440.jpg"
-		},
+	"Collections": [
 		{
 			"name": "food",
 			"preview_url": "https://i.imgur.com/pWEdMdS.jpg",
