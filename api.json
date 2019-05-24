@@ -28,19 +28,19 @@
 	],
 	"Wallpapers": [
 			{
-			"name": "Dog 1",
+			"name": "Dog",
 			"author": "you",
 			"url": "https://i.imgur.com/zNi1DzS.jpg",
 			"thumbnail": "",
-			"collections": "Dogs",
+			"collections": "Dogs 1",
 			"downloadable": true
 		}, 
 {
-			"name": "",
-			"author": "",
-			"url": "",
+			"name": "Dog",
+			"author": "your2",
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"thumbnail": "",
-			"collections": "",
+			"collections": "Dog 2",
 			"downloadable": true
 		}
 ]
