@@ -3,10 +3,12 @@
 		{
 			"name": "food",
 			"preview_url": "https://i.imgur.com/pWEdMdS.jpg",
+			"url": "https://i.imgur.com/oTylUKW.jpg",
 			"preview_thumbnail_url": "https://i.imgur.com/pWEdMdS.jpg"
 		},
 		{
 			"name": "people",
+			"url": "https://i.imgur.com/oTylUKW.jpg",
 			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
 			"preview_thumbnail_url": "https://i.imgur.com/oTylUKW.jpg"
 		},
