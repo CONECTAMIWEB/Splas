@@ -1,18 +1,18 @@
 {
 	"Collections": [{
 			"name": "Gatos 1",
-			"preview_url": "https://i.imgur.com/fDL1l29.jpg",
+			"url": "https://i.imgur.com/fDL1l29.jpg",
 			"preview_thumbnail_url": ""
 		},
 			
 		{
 			"name": "Gatos 2",
-			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
+			"url": "https://i.imgur.com/oTylUKW.jpg",
 			"preview_thumbnail_url": ""
 		},
 		{
 			"name": "Gatos 3",
-			"preview_url": "https://i.imgur.com/pWEdMdS.jpg",
+			"url": "https://i.imgur.com/pWEdMdS.jpg",
 			"preview_thumbnail_url": ""
 		}
 		
