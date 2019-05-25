@@ -1,37 +1,10 @@
 {
-	"Collections": [{
-			"name": "landscapes",
-			"url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg"
-		},
-			
-		{
-			"name": "city",
-			"url": "http://wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_2560x1440.jpg"
-		},
-		{
-			"name": "food",
-			"preview_url": "http://wallpaperscraft.com/image/seafood_shrimp_crabs_food_76709_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/seafood_shrimp_crabs_food_76709_2560x1440.jpg"
-		},
-		{
-			"name": "people",
-			"preview_url": "http://wallpaperscraft.com/image/gas_mask_guy_inscription_118212_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/gas_mask_guy_inscription_118212_2560x1440.jpg"
-		},
-		{
-			"name": "nature",
-			"preview_url": "http://wallpaperscraft.com/image/road_trees_top_view_119030_2560x1440.jpg",
-			"preview_thumbnail_url": "http://wallpaperscraft.com/image/road_trees_top_view_119030_2560x1440.jpg"
-		}
-	],
 	
 	"Wallpapers": [
 			{
 			"name": "Dog",
 			"author": "you",
-			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
+			"url": "https://i.imgur.com/zNi1DzS.jpg",
 			"thumbnail": "",
 			"collections": "Dogs 1",
 			"downloadable": true
@@ -39,7 +12,7 @@
                 {      
 			"name": "Dog",
 			"author": "your2",
-			"preview_url": "https://i.imgur.com/4Tlx0L2.jpg",
+			"url": "https://i.imgur.com/4Tlx0L2.jpg",
 			"thumbnail": "",
 			"collections": "Dog 2",
 			"downloadable": true
@@ -47,7 +20,7 @@
 		 {      
 			"name": "Dog",
 			"author": "your3",
-			"preview_url": "https://i.imgur.com/zNi1DzS.jpg",
+			"url": "https://i.imgur.com/zNi1DzS.jpg",
 			"thumbnail": "",
 			"collections": "Dog 3",
 			"downloadable": true
@@ -55,7 +28,7 @@
 		{
 			"name": "gato 1",
 			"author": "you",
-			"preview_url": "https://i.imgur.com/fDL1l29.jpg",
+			"url": "https://i.imgur.com/fDL1l29.jpg",
 			"thumbnail": "",
 			"collections": "gato 1.1",
 			"downloadable": true
@@ -63,7 +36,7 @@
                 {      
 			"name": "gato 2",
 			"author": "your2",
-			"preview_url": "https://i.imgur.com/oTylUKW.jpg",
+			"url": "https://i.imgur.com/oTylUKW.jpg",
 			"thumbnail": "",
 			"collections": "gato 2.2",
 			"downloadable": true
@@ -71,7 +44,7 @@
 		 {      
 			"name": "gato 3",
 			"author": "your3",
-			"preview_url": "https://i.imgur.com/pWEdMdS.jpg",
+			"url": "https://i.imgur.com/pWEdMdS.jpg",
 			"thumbnail": "",
 			"collections": "gato 3.3",
 			"downloadable": true
